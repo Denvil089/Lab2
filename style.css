@@ -1,0 +1,33 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: slategray;
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+input {
+    width: 35%;
+    padding: 8px;
+    float: left;
+    font-size: 15px;
+    border-color: slategray;
+    font-style: italic;
+}
+#form {
+    display: flex;
+    flex-direction: row;
+}
+ul {
+    text-align: left;
+    font-size: 16px;
+    color: black;
+    margin: 35px;
+    padding: 5px;
+}
+button {
+    font-size: 15px;
+    font-style: italic;
+    border-color: slategray;
+}
